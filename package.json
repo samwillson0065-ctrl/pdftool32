@@ -1,6 +1,6 @@
 {
-  "name": "title-pdf-generator",
-  "version": "1.0.0",
+  "name": "title-pdf-generator-v3",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
